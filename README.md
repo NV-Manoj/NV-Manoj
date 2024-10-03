@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm N V Manoj</h2>
-<h4 align="center">Welcome to my GitHub profile! I’m N V Manoj, a passionate BTech student with a keen interest in web development and software engineering. I enjoy creating innovative projects and solving challenging problems.</h4>
+<h4 align="left">Welcome to my GitHub profile! I’m N V Manoj, a passionate BTech student with a keen interest in web development and software engineering. I enjoy creating innovative projects and solving challenging problems.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nv-manoj&label=Profile%20views&color=0e75b6&style=flat" alt="nv-manoj" /> </p>
 
