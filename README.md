@@ -14,11 +14,11 @@
 - **Description:** A web application where users can add their expenses and calculate the total.
 - **Technologies Used:** HTML, CSS, JavaScript
 
-### 2. [Digital Signature Downloader](https://github.com/NV-Manoj/DigitalSignatureDownloader)
+### 2. [Digital Signature Downloader](https://nv-manoj.github.io/signatureDownloader/)
 - **Description:** A tool for users to create and download their digital signatures as PNG files.
 - **Technologies Used:** HTML, CSS, JavaScript
 
-### 3. [Static Gusto Food Website](https://github.com/NV-Manoj/GustoFood)
+### 3. [Static Gusto Food Website](https://nv-manoj.github.io/gustoEffects/)
 - **Description:** A static website showcasing food items with an appealing design.
 - **Technologies Used:** HTML, CSS, JavaScript, MySQL
 
